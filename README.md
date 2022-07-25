@@ -8,9 +8,6 @@ hey there, welcome to weeb's lair!
 いらっしゃい!
 <h3>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BabeZxyuan.BabeZxyuan)](https://github.com/BabeZxyuan) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/BabeZxyuan?tab=followers)
-
-<h3>
 
 ---
 ## Who Am I? 🙋
