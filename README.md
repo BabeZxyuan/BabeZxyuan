@@ -2,60 +2,59 @@
 <!-- <h2 align='center'>Andika Kurnia Sandi Yuda</h2>
 <p align='center'><b>Universitas Bina Sarana Informatika</b></p> -->
 
+<h3 align="center">
 hey there, welcome to weeb's lair!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 いらっしゃい!
 <h3>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BabeZxyuan.BabeZxyuan)](https://github.com/BabeZxyuan) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/BabeZxyuan?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+<h3>
+
+---
+## Who Am I? 🙋
+
+My name is Andika Kurnia Sandi Yuda but people called me Dika. I am a student from Universitas Bina Sarana Informatika, Majoring in Teknik Informatika.
 
 <h2>💻 I'm Currently workng on</h2>
 
-- System Design and Distributed Computing
-- Software Engineering
+- Android Developer
+- UI/UX Designer
 
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    <a href="https://github.com/BabeZxyuan/C22-PS233-TravelKuy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BabeZxyuan&repo=C22-PS233-TravelKuy" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
 </div>
 
-<h2>👀 Stats</h2>
-
+## Tools I Usually Use ⌨️ :
+<!-- Use devicon.dev or use logo from software, make sure width is 60px -->
+<div align="center">
+    <a href= "https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"></a>
+    <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"></a>
+    <a href="https://developer.android.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/android.png" width="60"></a>
+    <a href="https:https://www.codeigniter.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/codeig.png" width="60"></a>
+    <a href="https://www.figma.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/figma.png" width="60"></a>
+    <a href="https://www.mysql.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/MySQL.png" width="100"></a>
 <div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmena" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
-  </p>
-</div>
 
-<h2> About Laxmena⚡:</h2>
+<div align="left">
+This list might be growing hehe😉, I might learn other things in future like Web Dev Holy Trinity HTML, python and JS because I think it will be useful in future, This Readme also requires HTML so.....very useful of course. Or maybe even Flutter because I think it's useful for making apps/webapps but I don't want to learn all native languages😉 IDK, I'll learn slowly
+My skills on the above tools haven't been very polished, but learning new things doesn't hurt.
 
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
- 
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com)
+My skills on tools above are not very polished just yet, but learning new things won't hurt. 
+<div>
 
-<h2>📫 How to reach me:</h2>
+---
 
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<h2> About BabeZxyuan⚡:</h2>
+
+I am a Postgraduate Student living in Depok, Leuwinanggung. Outside of Tech, I like watching anime, enjoy music and like to come up with new ideas. If you are around Leuwinanggung, send us an email and let's enjoy Coffee!
+
+<a href="https://www.linkedin.com/in/andika-kurnia-sandi-yuda-b829b1192/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
