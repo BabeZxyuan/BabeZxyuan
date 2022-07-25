@@ -17,6 +17,7 @@ My name is Andika Kurnia Sandi Yuda but people called me Dika. I am a student fr
 <h2>💻 I'm Currently workng on</h2>
 
 - Android Developer
+- Web Developer
 - UI/UX Designer
 
 
