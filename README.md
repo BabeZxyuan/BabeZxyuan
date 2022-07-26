@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
+![Lakshmanan Meiyappan Banner Image](./banner.jpeg)
 <!-- <h2 align='center'>Andika Kurnia Sandi Yuda</h2>
 <p align='center'><b>Universitas Bina Sarana Informatika</b></p> -->
 
