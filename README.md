@@ -40,6 +40,7 @@ __Check out my GitHub repository:__
     <a href="https:https://www.codeigniter.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/codeig.png" width="60"></a>
     <a href="https://www.figma.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/figma.png" width="60"></a>
     <a href="https://www.mysql.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/MySQL.png" width="100"></a>
+    <a href="https://www.jdoodle.com/"><img src="https://github.com/BabeZxyuan/BabeZxyuan/blob/main/c%2B%2B.png" width="60"></a>
 <div>
 
 <div align="left">
