@@ -57,4 +57,4 @@ My skills on tools above are not very polished just yet, but learning new things
 I am a Postgraduate Student living in Depok, Leuwinanggung. Outside of Tech, I like watching anime, enjoy music and like to come up with new ideas. If you are around Leuwinanggung, send us an email and let's enjoy Coffee!
 
 <a href="https://www.linkedin.com/in/andika-kurnia-sandi-yuda-b829b1192/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://dribbble.com/Zxyuannn/">![Dribbble](https://commons.wikimedia.org/wiki/File:Dribbble_logo.png?style=for-the-badge&logo=Dribbble&logoColor=white)</a>
+<a href="https://dribbble.com/Zxyuannn/">![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)</a>
