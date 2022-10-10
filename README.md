@@ -14,6 +14,8 @@ hey there, welcome to weeb's lair!
 
 My name is Andika Kurnia Sandi Yuda but people called me Dika. I am a student from Universitas Bina Sarana Informatika, Majoring in Teknik Informatika.
 
+I'm a graduate of bangkit academy 2022
+
 <h2>💻 I'm Currently workng on</h2>
 
 - Android Developer
